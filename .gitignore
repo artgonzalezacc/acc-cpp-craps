@@ -70,7 +70,8 @@
 /out
 /.vs
 /.vscode
-/CMakeFiles
+*/CMakeFiles
+
 
 #build files
 cmake_install.cmake
